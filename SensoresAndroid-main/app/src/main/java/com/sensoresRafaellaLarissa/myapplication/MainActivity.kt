@@ -22,5 +22,8 @@ class MainActivity : AppCompatActivity() {
         sensores.forEach{ sensor ->
             Log.i("SENSORES", sensor.toString())
         }
+
     }
+
+
 }
